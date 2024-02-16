@@ -1,0 +1,8 @@
+.weather-table-styles{
+     --bs-table-bg: none !important;
+}
+.weather-table-header{
+    background-color: rgb(240, 138, 14);
+}
+
+ 
